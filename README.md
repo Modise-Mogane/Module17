@@ -4,6 +4,16 @@
 
 ## Student1
 
+### Student Metadata
+
+- **Name / initials:** [NOT PROVIDED]
+- **Student number:** 224115260
+- **ID number:** [UNREADABLE]
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Management Services
+- **Cover photo:** archive page 1
+
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
 | 1.1 | 4.5 / 10 | Recommends the package and notes limited IT capacity and the schedule; affordability, operational implications and a specific connector-release response are weak. |
@@ -21,6 +31,16 @@
 **Summary:** 51.5/100 (51.5%) — **PASS** at the 50% threshold.
 
 ## Student2
+
+### Student Metadata
+
+- **Name / initials:** M. S. Khumalo
+- **Student number:** 224225312
+- **ID number:** [UNREADABLE]
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Management Services
+- **Cover photo:** archive page 2
 
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
@@ -40,6 +60,16 @@
 
 ## Student3
 
+### Student Metadata
+
+- **Name / initials:** K.
+- **Student number:** [UNREADABLE]
+- **ID number:** [NOT PROVIDED]
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Management Services
+- **Cover photo:** archive page 2
+
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
 | 1.1 | 6 / 10 | Makes a package recommendation and discusses affordability/timing, but key feasibility implications and risk response are incomplete. |
@@ -57,6 +87,16 @@
 **Summary:** 29/100 (29%) — **FAIL** at the 50% threshold.
 
 ## Student4
+
+### Student Metadata
+
+- **Name / initials:** C. V. Zwane
+- **Student number:** 223045765
+- **ID number:** [NOT PROVIDED]
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Management Services
+- **Cover photo:** archive page 4
 
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
@@ -76,6 +116,16 @@
 
 ## Student5
 
+### Student Metadata
+
+- **Name / initials:** B. Phaladi
+- **Student number:** 223305743
+- **ID number:** [UNREADABLE]
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Management Services
+- **Cover photo:** archive page 1
+
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
 | 1.1 | 8 / 10 | Relevant package and feasibility rationale; risk response and some case-specific implications need more detail. |
@@ -93,6 +143,16 @@
 **Summary:** 54/100 (54%) — **PASS** at the 50% threshold.
 
 ## Student6
+
+### Student Metadata
+
+- **Name / initials:** [NOT PROVIDED]
+- **Student number:** 222055411
+- **ID number:** [UNREADABLE]
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Management Services
+- **Cover photo:** archive page 2
 
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
@@ -112,6 +172,16 @@
 
 ## Student7
 
+### Student Metadata
+
+- **Name / initials:** [NOT PROVIDED]
+- **Student number:** [UNREADABLE]
+- **ID number:** [UNREADABLE]
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Management Services
+- **Cover photo:** archive page 2
+
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
 | 1.1 | 7 / 10 | A suitable development option and some feasibility factors are discussed; several case-specific implications remain brief. |
@@ -129,6 +199,16 @@
 **Summary:** 70/100 (70%) — **PASS** at the 50% threshold.
 
 ## Student8
+
+### Student Metadata
+
+- **Name / initials:** [NOT PROVIDED]
+- **Student number:** [UNREADABLE]
+- **ID number:** [UNREADABLE]
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Management Services
+- **Cover photo:** archive page 1
 
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
@@ -148,6 +228,16 @@
 
 ## Student9
 
+### Student Metadata
+
+- **Name / initials:** [NOT PROVIDED]
+- **Student number:** [UNREADABLE]
+- **ID number:** [NOT PROVIDED]
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Management Services
+- **Cover photo:** archive page 1
+
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
 | 1.1 | 8 / 10 | Strong case-linked feasibility comparison; a few implications or responses are abbreviated. |
@@ -165,6 +255,16 @@
 **Summary:** 72/100 (72%) — **PASS** at the 50% threshold.
 
 ## Student10
+
+### Student Metadata
+
+- **Name / initials:** L. M.
+- **Student number:** 223063636
+- **ID number:** 0004165116082
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Management Services
+- **Cover photo:** archive page 3
 
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
@@ -184,6 +284,16 @@
 
 ## Student11
 
+### Student Metadata
+
+- **Name / initials:** S. F. Motha
+- **Student number:** 222156867
+- **ID number:** [UNREADABLE]
+- **Passport number:** [NOT PROVIDED]
+- **Module:** [NOT PROVIDED]
+- **Qualification:** Management Services
+- **Cover photo:** archive page 2
+
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
 | 1.1 | 5 / 10 | Partial option/feasibility discussion; case comparisons and risk response are incomplete. |
@@ -201,6 +311,16 @@
 **Summary:** 46/100 (46%) — **FAIL** at the 50% threshold.
 
 ## Student12
+
+### Student Metadata
+
+- **Name / initials:** T. A. Siwela
+- **Student number:** [UNREADABLE]
+- **ID number:** 0207020764081
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Management Services
+- **Cover photo:** archive page 2
 
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
@@ -220,6 +340,16 @@
 
 ## Student13
 
+### Student Metadata
+
+- **Name / initials:** N.
+- **Student number:** 224150066
+- **ID number:** [UNREADABLE]
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Management Services
+- **Cover photo:** archive page 1
+
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
 | 1.1 | 8 / 10 | Good option and feasibility reasoning; some project-risk/readiness details are abbreviated. |
@@ -237,6 +367,16 @@
 **Summary:** 73/100 (73%) — **PASS** at the 50% threshold.
 
 ## Student14
+
+### Student Metadata
+
+- **Name / initials:** L.
+- **Student number:** [UNREADABLE]
+- **ID number:** 0412106063081
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Management Services
+- **Cover photo:** archive page 3
 
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
@@ -256,6 +396,16 @@
 
 ## Student15
 
+### Student Metadata
+
+- **Name / initials:** S. Manafela
+- **Student number:** 223241016
+- **ID number:** [NOT PROVIDED]
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Management Services
+- **Cover photo:** archive page 1
+
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
 | 1.1 | 9 / 10 | Strong commercial-package feasibility comparison and connector-risk response; minor omissions only. |
@@ -273,6 +423,16 @@
 **Summary:** 84/100 (84%) — **PASS** at the 50% threshold.
 
 ## Student16
+
+### Student Metadata
+
+- **Name / initials:** Z. Manjate
+- **Student number:** 222086962
+- **ID number:** 0208121420086
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Management Services
+- **Cover photo:** archive page 5
 
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
@@ -292,6 +452,16 @@
 
 ## Student17
 
+### Student Metadata
+
+- **Name / initials:** [NOT PROVIDED]
+- **Student number:** [UNREADABLE]
+- **ID number:** [UNREADABLE]
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Management Services
+- **Cover photo:** archive page 1
+
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
 | 1.1 | 8 / 10 | Relevant option/feasibility analysis; some case-specific risk and cost implications are brief. |
@@ -309,6 +479,16 @@
 **Summary:** 70/100 (70%) — **PASS** at the 50% threshold.
 
 ## Student18
+
+### Student Metadata
+
+- **Name / initials:** S. S.
+- **Student number:** [UNREADABLE]
+- **ID number:** [UNREADABLE]
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** [NOT PROVIDED]
+- **Cover photo:** archive page 3
 
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
@@ -328,6 +508,16 @@
 
 ## Student19
 
+### Student Metadata
+
+- **Name / initials:** B. E. Mohapi
+- **Student number:** 224152155
+- **ID number:** [UNREADABLE]
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Management Services
+- **Cover photo:** archive page 5
+
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
 | 1.1 | 8 / 10 | Good package/feasibility analysis with risk reasoning; a few operational/technical details are brief. |
@@ -345,6 +535,16 @@
 **Summary:** 71/100 (71%) — **PASS** at the 50% threshold.
 
 ## Student20
+
+### Student Metadata
+
+- **Name / initials:** O.
+- **Student number:** [UNREADABLE]
+- **ID number:** [UNREADABLE]
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Management Services
+- **Cover photo:** archive page 3
 
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
@@ -364,6 +564,16 @@
 
 ## Student21
 
+### Student Metadata
+
+- **Name / initials:** T. Mofokeng
+- **Student number:** 222177978
+- **ID number:** [UNREADABLE]
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Management Services
+- **Cover photo:** archive page 2
+
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
 | 1.1 | 5 / 10 | Recommends an option and notes some constraints; feasibility comparisons and risk response are incomplete. |
@@ -381,6 +591,16 @@
 **Summary:** 37/100 (37%) — **FAIL** at the 50% threshold.
 
 ## Student22
+
+### Student Metadata
+
+- **Name / initials:** K. Senosi
+- **Student number:** 222144941
+- **ID number:** [NOT PROVIDED]
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Management Services
+- **Cover photo:** archive page 2
 
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
@@ -400,6 +620,16 @@
 
 ## Student23
 
+### Student Metadata
+
+- **Name / initials:** B. P. Ndlovu
+- **Student number:** 222162167
+- **ID number:** [NOT PROVIDED]
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Diploma in Management Services
+- **Cover photo:** archive page 2
+
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
 | 1.1 | 8 / 10 | Good package/feasibility comparison; some readiness/risk details could be clearer. |
@@ -417,6 +647,16 @@
 **Summary:** 72/100 (72%) — **PASS** at the 50% threshold.
 
 ## Student24
+
+### Student Metadata
+
+- **Name / initials:** S. S.
+- **Student number:** [UNREADABLE]
+- **ID number:** [UNREADABLE]
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Diploma in Management Services
+- **Cover photo:** archive page 1
 
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
@@ -436,6 +676,16 @@
 
 ## Student25
 
+### Student Metadata
+
+- **Name / initials:** B. Nkuna
+- **Student number:** 223012782
+- **ID number:** [UNREADABLE]
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Management Services
+- **Cover photo:** archive page 3
+
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
 | 1.1 | 9 / 10 | Strong package/feasibility discussion with case facts; minor risk/readiness detail is brief. |
@@ -453,6 +703,16 @@
 **Summary:** 68/100 (68%) — **PASS** at the 50% threshold.
 
 ## Student26
+
+### Student Metadata
+
+- **Name / initials:** B. H.
+- **Student number:** [UNREADABLE]
+- **ID number:** [NOT PROVIDED]
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Management Services
+- **Cover photo:** archive page 3
 
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
@@ -472,6 +732,16 @@
 
 ## Student27
 
+### Student Metadata
+
+- **Name / initials:** [NOT PROVIDED]
+- **Student number:** 222078896
+- **ID number:** 0308135784087
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Management Services
+- **Cover photo:** archive page 3
+
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
 | 1.1 | 7 / 10 | A viable choice and some case constraints are discussed; not all feasibility factors are well supported. |
@@ -489,6 +759,16 @@
 **Summary:** 47.5/100 (47.5%) — **FAIL** at the 50% threshold.
 
 ## Student28
+
+### Student Metadata
+
+- **Name / initials:** K.
+- **Student number:** [UNREADABLE]
+- **ID number:** [UNREADABLE]
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Management Services
+- **Cover photo:** archive page 3
 
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
@@ -508,6 +788,16 @@
 
 ## Student29
 
+### Student Metadata
+
+- **Name / initials:** T. M.
+- **Student number:** 216006186
+- **ID number:** [UNREADABLE]
+- **Passport number:** [NOT PROVIDED]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Management Services
+- **Cover photo:** archive page 2
+
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
 | 1.1 | 8 / 10 | Relevant commercial option and feasibility reasoning; some case-specific risk/readiness detail is incomplete. |
@@ -525,6 +815,16 @@
 **Summary:** 41/100 (41%) — **FAIL** at the 50% threshold.
 
 ## Student30
+
+### Student Metadata
+
+- **Name / initials:** M. A.
+- **Student number:** 220430210
+- **ID number:** [NOT PROVIDED]
+- **Passport number:** [UNREADABLE]
+- **Module:** System Analysis and Design 1B
+- **Qualification:** Management Services
+- **Cover photo:** archive page 1
 
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
