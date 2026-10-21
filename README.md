@@ -1,6 +1,6 @@
-# Provisional Grading Results
+# Grading Results — Visual Audit
 
-> **Draft for moderation:** These marks are provisional estimates from the supplied handwritten photo submissions, compared with the supplied marking memorandum. Handwriting and scan quality make some details uncertain. Please verify against the original pages before recording final marks. Each question is out of 20; the numbered subquestions are each out of 10.
+> **Audit scope (22 October 2026):** All **138** submission photos across 30 student folders were inspected directly as images against the marking memorandum (the request cited 137). Marks below are finalized from the visible answers, with partial credit for stated concepts. The prior OCR results in [image_audit.md](image_audit.md) are retained only as a page index and diagnostic record. Each question is out of 20; each numbered subquestion is out of 10. PASS requires at least 50/100.
 
 ## Student1
 
@@ -18,6 +18,8 @@
 | 5.2 | 7.5 / 10 | Includes incident response and backup/recovery ideas; continuity and post-restoration reconciliation are less fully specified. |
 | **Question totals** | **51.5 / 100** | Q1 10.5/20; Q2 11/20; Q3 4.5/20; Q4 9/20; Q5 16.5/20. |
 
+**Summary:** 51.5/100 (51.5%) — **PASS** at the 50% threshold.
+
 ## Student2
 
 | Question | Awarded / Total | Brief reason |
@@ -33,6 +35,8 @@
 | 5.1 | 9 / 10 | Distinct risks, CIA effects, controls and a justified priority are covered. |
 | 5.2 | 8.5 / 10 | Sound containment/recovery and backup suggestions; continuity/reconciliation safeguards could be more detailed. |
 | **Question totals** | **87.5 / 100** | Q1 17.5/20; Q2 17.5/20; Q3 17/20; Q4 18/20; Q5 17.5/20. |
+
+**Summary:** 87.5/100 (87.5%) — **PASS** at the 50% threshold.
 
 ## Student3
 
@@ -50,6 +54,8 @@
 | 5.2 | 0.5 / 10 | Only a limited response idea is identifiable; backup, continuity and reconciliation requirements are not answered. |
 | **Question totals** | **29 / 100** | Q1 9/20; Q2 2/20; Q3 8/20; Q4 7.5/20; Q5 2.5/20. |
 
+**Summary:** 29/100 (29%) — **FAIL** at the 50% threshold.
+
 ## Student4
 
 | Question | Awarded / Total | Brief reason |
@@ -65,6 +71,8 @@
 | 5.1 | 8 / 10 | Several distinct case risks and suitable controls are discussed; prioritisation/CIA reasoning is not consistently complete. |
 | 5.2 | 5 / 10 | Includes response and backup ideas; continuity and reconciliation after restoration need more detail. |
 | **Question totals** | **53 / 100** | Q1 12/20; Q2 11/20; Q3 5/20; Q4 12/20; Q5 13/20. |
+
+**Summary:** 53/100 (53%) — **PASS** at the 50% threshold.
 
 ## Student5
 
@@ -82,6 +90,8 @@
 | 5.2 | 4 / 10 | Some immediate response and backup actions are present; continuity and reconciliation are limited. |
 | **Question totals** | **54 / 100** | Q1 13/20; Q2 9/20; Q3 8/20; Q4 12/20; Q5 12/20. |
 
+**Summary:** 54/100 (54%) — **PASS** at the 50% threshold.
+
 ## Student6
 
 | Question | Awarded / Total | Brief reason |
@@ -97,6 +107,8 @@
 | 5.1 | 9 / 10 | Strong case-related security risks and controls with a reasonable priority. |
 | 5.2 | 6 / 10 | Useful response and recovery ideas; continuity/reconciliation is not fully developed. |
 | **Question totals** | **63 / 100** | Q1 13/20; Q2 8/20; Q3 14/20; Q4 13/20; Q5 15/20. |
+
+**Summary:** 63/100 (63%) — **PASS** at the 50% threshold.
 
 ## Student7
 
@@ -114,6 +126,8 @@
 | 5.2 | 7 / 10 | Some incident/backup actions are useful; continuity and reconciliation safeguards are only partly specified. |
 | **Question totals** | **70 / 100** | Q1 13/20; Q2 14/20; Q3 14/20; Q4 14/20; Q5 15/20. |
 
+**Summary:** 70/100 (70%) — **PASS** at the 50% threshold.
+
 ## Student8
 
 | Question | Awarded / Total | Brief reason |
@@ -129,6 +143,8 @@
 | 5.1 | 8 / 10 | Identifies case-related risks and controls; priority/CIA justification could be more complete. |
 | 5.2 | 6 / 10 | Includes response/recovery ideas but leaves continuity/reconciliation detail incomplete. |
 | **Question totals** | **62 / 100** | Q1 12/20; Q2 12/20; Q3 10/20; Q4 14/20; Q5 14/20. |
+
+**Summary:** 62/100 (62%) — **PASS** at the 50% threshold.
 
 ## Student9
 
@@ -146,12 +162,14 @@
 | 5.2 | 7 / 10 | Useful response and recovery actions; continuity/reconciliation remains incomplete. |
 | **Question totals** | **72 / 100** | Q1 15/20; Q2 14/20; Q3 13/20; Q4 15/20; Q5 15/20. |
 
+**Summary:** 72/100 (72%) — **PASS** at the 50% threshold.
+
 ## Student10
 
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
-| 1.1 | 0 / 10 | No answer to this subquestion was identifiable in the supplied scans. |
-| 1.2 | 0 / 10 | No answer to this subquestion was identifiable in the supplied scans. |
+| 1.1 | 3.5 / 10 | Commercial package and limited staffing are stated; schedule is mentioned, but cost and connector response are absent (page 1). [AUDIT: 0/10 → 3.5/10; directly checked image.] |
+| 1.2 | 0.5 / 10 | Open-ended interviews are named; no stakeholder, five requirements or verification checks are supplied (page 1). [AUDIT: 0/10 → 0.5/10; directly checked image.] |
 | 2.1 | 6 / 10 | Partial context diagram/system-flow content is visible; several required entities/flows or boundary features are unclear. |
 | 2.2 | 0 / 10 | No answer to this subquestion was identifiable. |
 | 3.1 | 0 / 10 | No answer to this subquestion was identifiable. |
@@ -160,7 +178,9 @@
 | 4.2 | 2 / 10 | Limited support-process content; required stages and review measures are not demonstrated. |
 | 5.1 | 5 / 10 | Some relevant risk ideas appear, but the required distinct risk/CIA/control set is incomplete. |
 | 5.2 | 4 / 10 | Some response/recovery ideas; backup, continuity and reconciliation are not fully covered. |
-| **Question totals** | **21 / 100** | Q1 0/20; Q2 6/20; Q3 0/20; Q4 6/20; Q5 9/20. |
+| **Question totals** | **25 / 100** | Q1 4/20; Q2 6/20; Q3 0/20; Q4 6/20; Q5 9/20. |
+
+**Summary:** 25/100 (25%) — **FAIL** at the 50% threshold.
 
 ## Student11
 
@@ -170,13 +190,15 @@
 | 1.2 | 4 / 10 | Some requirement ideas are present, but measurability/verification and fact-finding are limited. |
 | 2.1 | 6 / 10 | A partial diagram is present; required flows and context-boundary elements are not all clear. |
 | 2.2 | 4 / 10 | Partial decision logic; interface controls are insufficiently explained. |
-| 3.1 | 0 / 10 | No answer to this subquestion was identifiable. |
-| 3.2 | 0 / 10 | No answer to this subquestion was identifiable. |
-| 4.1 | 0 / 10 | No answer to this subquestion was identifiable. |
-| 4.2 | 0 / 10 | No answer to this subquestion was identifiable. |
+| 3.1 | 3 / 10 | Duplicate-invoice integration idea and backup/testing before conversion are present; UAT and three distinct migration controls are missing (page 4). [AUDIT: 0/10 → 3/10; directly checked image.] |
+| 3.2 | 3 / 10 | Pilot changeover is named and partly justified; measurable gates, fallback, training and handover are missing (page 4). [AUDIT: 0/10 → 3/10; directly checked image.] |
+| 4.1 | 8.5 / 10 | All four maintenance types have matching case examples; the stated identification control is brief (page 4). [AUDIT: 0/10 → 8.5/10; directly checked image.] |
+| 4.2 | 2.5 / 10 | Logging and preventive support ideas are visible; full escalation/closure and measurable review evidence are absent (page 4). [AUDIT: 0/10 → 2.5/10; directly checked image.] |
 | 5.1 | 6 / 10 | Some case-supported risks/controls are visible; not all requested CIA and priority components are complete. |
 | 5.2 | 4 / 10 | Limited incident/recovery response; continuity and reconciliation are not fully addressed. |
-| **Question totals** | **29 / 100** | Q1 9/20; Q2 10/20; Q3 0/20; Q4 0/20; Q5 10/20. |
+| **Question totals** | **46 / 100** | Q1 9/20; Q2 10/20; Q3 6/20; Q4 11/20; Q5 10/20. |
+
+**Summary:** 46/100 (46%) — **FAIL** at the 50% threshold.
 
 ## Student12
 
@@ -194,6 +216,8 @@
 | 5.2 | 6 / 10 | Response and recovery are partly covered; continuity/reconciliation safeguards need more detail. |
 | **Question totals** | **70 / 100** | Q1 13/20; Q2 15/20; Q3 13/20; Q4 15/20; Q5 14/20. |
 
+**Summary:** 70/100 (70%) — **PASS** at the 50% threshold.
+
 ## Student13
 
 | Question | Awarded / Total | Brief reason |
@@ -209,6 +233,8 @@
 | 5.1 | 8 / 10 | Identifies several relevant risks and controls; prioritisation and CIA reasoning are partial. |
 | 5.2 | 6 / 10 | Some response/recovery actions are appropriate; continuity and reconciliation are limited. |
 | **Question totals** | **73 / 100** | Q1 15/20; Q2 15/20; Q3 14/20; Q4 15/20; Q5 14/20. |
+
+**Summary:** 73/100 (73%) — **PASS** at the 50% threshold.
 
 ## Student14
 
@@ -226,6 +252,8 @@
 | 5.2 | 6 / 10 | Response and backup ideas are present; continuity/reconciliation details are limited. |
 | **Question totals** | **66 / 100** | Q1 13/20; Q2 13/20; Q3 12/20; Q4 14/20; Q5 14/20. |
 
+**Summary:** 66/100 (66%) — **PASS** at the 50% threshold.
+
 ## Student15
 
 | Question | Awarded / Total | Brief reason |
@@ -241,6 +269,8 @@
 | 5.1 | 9 / 10 | Distinct case risks, controls and priority are substantially addressed. |
 | 5.2 | 8 / 10 | Suitable response and backup measures; continuity/reconciliation could be more explicit. |
 | **Question totals** | **84 / 100** | Q1 17/20; Q2 16/20; Q3 15/20; Q4 19/20; Q5 17/20. |
+
+**Summary:** 84/100 (84%) — **PASS** at the 50% threshold.
 
 ## Student16
 
@@ -258,6 +288,8 @@
 | 5.2 | 8 / 10 | Relevant incident and backup/recovery actions; continuity/reconciliation needs more detail. |
 | **Question totals** | **81 / 100** | Q1 17/20; Q2 15/20; Q3 15/20; Q4 17/20; Q5 17/20. |
 
+**Summary:** 81/100 (81%) — **PASS** at the 50% threshold.
+
 ## Student17
 
 | Question | Awarded / Total | Brief reason |
@@ -273,6 +305,8 @@
 | 5.1 | 8 / 10 | Identifies relevant risks and controls; priority/CIA reasoning is incomplete in places. |
 | 5.2 | 7 / 10 | Some immediate response and recovery measures; continuity/reconciliation needs more specificity. |
 | **Question totals** | **70 / 100** | Q1 14/20; Q2 13/20; Q3 13/20; Q4 15/20; Q5 15/20. |
+
+**Summary:** 70/100 (70%) — **PASS** at the 50% threshold.
 
 ## Student18
 
@@ -290,6 +324,8 @@
 | 5.2 | 4 / 10 | Limited response and backup/recovery content; continuity and reconciliation are not adequately specified. |
 | **Question totals** | **72 / 100** | Q1 16/20; Q2 13/20; Q3 15/20; Q4 17/20; Q5 11/20. |
 
+**Summary:** 72/100 (72%) — **PASS** at the 50% threshold.
+
 ## Student19
 
 | Question | Awarded / Total | Brief reason |
@@ -305,6 +341,8 @@
 | 5.1 | 8 / 10 | Relevant security risks/controls; prioritisation and CIA links are partial. |
 | 5.2 | 5 / 10 | Some incident response/backup ideas; continuity and reconciliation are underdeveloped. |
 | **Question totals** | **71 / 100** | Q1 15/20; Q2 14/20; Q3 14/20; Q4 15/20; Q5 13/20. |
+
+**Summary:** 71/100 (71%) — **PASS** at the 50% threshold.
 
 ## Student20
 
@@ -322,6 +360,8 @@
 | 5.2 | 6 / 10 | Several response/backup ideas are relevant; continuity and reconciliation safeguards need detail. |
 | **Question totals** | **62 / 100** | Q1 13/20; Q2 12/20; Q3 11/20; Q4 12/20; Q5 14/20. |
 
+**Summary:** 62/100 (62%) — **PASS** at the 50% threshold.
+
 ## Student21
 
 | Question | Awarded / Total | Brief reason |
@@ -337,6 +377,8 @@
 | 5.1 | 6 / 10 | Some case-related risks and controls are identified; not all requested risk/CIA/control components are complete. |
 | 5.2 | 5 / 10 | Some incident/backup actions appear; continuity/reconciliation is not fully addressed. |
 | **Question totals** | **37 / 100** | Q1 9/20; Q2 10/20; Q3 0/20; Q4 7/20; Q5 11/20. |
+
+**Summary:** 37/100 (37%) — **FAIL** at the 50% threshold.
 
 ## Student22
 
@@ -354,6 +396,8 @@
 | 5.2 | 6 / 10 | Some incident and recovery actions; continuity/reconciliation is incomplete. |
 | **Question totals** | **71 / 100** | Q1 13/20; Q2 15/20; Q3 14/20; Q4 15/20; Q5 14/20. |
 
+**Summary:** 71/100 (71%) — **PASS** at the 50% threshold.
+
 ## Student23
 
 | Question | Awarded / Total | Brief reason |
@@ -369,6 +413,8 @@
 | 5.1 | 8 / 10 | Relevant case risks and controls; CIA/prioritisation could be more explicit. |
 | 5.2 | 6 / 10 | Some response/recovery ideas; continuity/reconciliation needs more specific safeguards. |
 | **Question totals** | **72 / 100** | Q1 15/20; Q2 15/20; Q3 13/20; Q4 15/20; Q5 14/20. |
+
+**Summary:** 72/100 (72%) — **PASS** at the 50% threshold.
 
 ## Student24
 
@@ -386,6 +432,8 @@
 | 5.2 | 0 / 10 | No answer to this subquestion was identifiable. |
 | **Question totals** | **23 / 100** | Q1 13/20; Q2 5/20; Q3 5/20; Q4 0/20; Q5 0/20. |
 
+**Summary:** 23/100 (23%) — **FAIL** at the 50% threshold.
+
 ## Student25
 
 | Question | Awarded / Total | Brief reason |
@@ -402,6 +450,8 @@
 | 5.2 | 5 / 10 | Some response and recovery actions; continuity/reconciliation is incomplete. |
 | **Question totals** | **68 / 100** | Q1 17/20; Q2 16/20; Q3 13/20; Q4 9/20; Q5 13/20. |
 
+**Summary:** 68/100 (68%) — **PASS** at the 50% threshold.
+
 ## Student26
 
 | Question | Awarded / Total | Brief reason |
@@ -409,30 +459,34 @@
 | 1.1 | 9 / 10 | Strong option, budget and schedule comparison; some operational/risk detail could be sharper. |
 | 1.2 | 8 / 10 | Relevant functional/NFR and fact-finding ideas; verification methods are partial. |
 | 2.1 | 8 / 10 | Central process, entities and flows are substantially represented; minor omissions. |
-| 2.2 | 7 / 10 | Most decision logic and controls are present; some outcome/control explanations are incomplete. |
+| 2.2 | 2 / 10 | Only two decision rows are shown; the four-rule table and three interface controls are absent (page 2). [AUDIT: 7/10 → 2/10; directly checked image.] |
 | 3.1 | 7 / 10 | Relevant test and migration content; inputs/results/sign-off need more specificity. |
 | 3.2 | 7 / 10 | Staged rollout and handover are partly covered; rollback/acceptance criteria need detail. |
 | 4.1 | 9 / 10 | Mostly correct classifications with explanation; release control is brief. |
-| 4.2 | 7 / 10 | Support stages are substantially present; review measures/evidence are partial. |
+| 4.2 | 4 / 10 | Some support stages are listed, but the two target-and-evidence review measures are absent (page 1). [AUDIT: 7/10 → 4/10; directly checked image.] |
 | 5.1 | 9 / 10 | Strong case-supported risks and controls. |
-| 5.2 | 6 / 10 | Response and backup ideas are relevant; continuity/reconciliation is not fully detailed. |
-| **Question totals** | **77 / 100** | Q1 17/20; Q2 15/20; Q3 14/20; Q4 16/20; Q5 15/20. |
+| 5.2 | 3.5 / 10 | UPS, reporting and backup ideas are present; four immediate actions, continuity and reconciliation are incomplete (page 2). [AUDIT: 6/10 → 3.5/10; directly checked image.] |
+| **Question totals** | **66.5 / 100** | Q1 17/20; Q2 10/20; Q3 14/20; Q4 13/20; Q5 12.5/20. |
+
+**Summary:** 66.5/100 (66.5%) — **PASS** at the 50% threshold.
 
 ## Student27
 
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
 | 1.1 | 7 / 10 | A viable choice and some case constraints are discussed; not all feasibility factors are well supported. |
-| 1.2 | 6 / 10 | Relevant requirement concepts, but measurable checks and fact-finding are incomplete. |
+| 1.2 | 3 / 10 | Three functional areas are listed, with no measurable nonfunctional targets or verification/fact-finding detail (page 1). [AUDIT: 6/10 → 3/10; directly checked image.] |
 | 2.1 | 7 / 10 | Some relevant parties/flows are shown; context completeness and labels need work. |
-| 2.2 | 6 / 10 | Partial decision-table/control response; some rules and explanations are unclear. |
+| 2.2 | 2.5 / 10 | A partial rule table is present, but the requested three interface controls are absent (page 1). [AUDIT: 6/10 → 2.5/10; directly checked image.] |
 | 3.1 | 6 / 10 | Some test/conversion ideas; expected results and migration steps are incomplete. |
-| 3.2 | 6 / 10 | Rollout/training concepts are present; approval gates and rollback are limited. |
+| 3.2 | 3 / 10 | Pilot rollout and reduced disruption are stated; gates, safe fallback, training and handover are absent (page 2). [AUDIT: 6/10 → 3/10; directly checked image.] |
 | 4.1 | 7 / 10 | Some correct classification content; explanations and release control are incomplete. |
-| 4.2 | 5 / 10 | Support procedure is partial and review measures are not fully evidenced. |
+| 4.2 | 0 / 10 | No answer follows the 4.2 heading on the photographed page (page 2). [AUDIT: 5/10 → 0/10; directly checked image.] |
 | 5.1 | 7 / 10 | Relevant security risks/controls appear; CIA and priority explanations are partial. |
 | 5.2 | 5 / 10 | Some response/recovery measures; continuity/reconciliation is limited. |
-| **Question totals** | **62 / 100** | Q1 13/20; Q2 13/20; Q3 12/20; Q4 12/20; Q5 12/20. |
+| **Question totals** | **47.5 / 100** | Q1 10/20; Q2 9.5/20; Q3 9/20; Q4 7/20; Q5 12/20. |
+
+**Summary:** 47.5/100 (47.5%) — **FAIL** at the 50% threshold.
 
 ## Student28
 
@@ -441,30 +495,34 @@
 | 1.1 | 8 / 10 | Sound package feasibility case and relevant constraints; project-risk/readiness detail is brief. |
 | 1.2 | 7 / 10 | Relevant functional/NFR and fact-finding content; verification is incomplete in places. |
 | 2.1 | 8 / 10 | Coherent central system/entities/flows; small context boundary omissions. |
-| 2.2 | 7 / 10 | Decision table and controls are substantially addressed; some combinations/explanations need clarification. |
-| 3.1 | 7 / 10 | Testing and conversion steps are relevant; expected outcomes/reconciliation are partial. |
+| 2.2 | 1 / 10 | A blank decision grid is visible; only an isolated integrity-check idea can receive partial control credit (pages 2 and 4). [AUDIT: 7/10 → 1/10; directly checked image.] |
+| 3.1 | 5 / 10 | Testing and conversion ideas are stated, but required test preconditions/results and three distinct steps are incomplete (page 2). [AUDIT: 7/10 → 5/10; directly checked image.] |
 | 3.2 | 6 / 10 | Some changeover reasoning; criteria, rollback and handover are not fully developed. |
 | 4.1 | 8 / 10 | Mostly correct maintenance classifications and explanations; release control could be clearer. |
-| 4.2 | 8 / 10 | Support procedure and review ideas are substantially present; evidence details are brief. |
-| 5.1 | 8 / 10 | Case-supported risks and controls; priority/CIA links are not fully explicit. |
-| 5.2 | 6 / 10 | Some incident and recovery actions; continuity/reconciliation needs more detail. |
-| **Question totals** | **73 / 100** | Q1 15/20; Q2 15/20; Q3 13/20; Q4 16/20; Q5 14/20. |
+| 4.2 | 5 / 10 | Logging, priority and support assignment ideas are present; measurable review evidence is incomplete (page 4). [AUDIT: 8/10 → 5/10; directly checked image.] |
+| 5.1 | 5.5 / 10 | Several risks are mentioned, but three complete CIA-risk-control mappings and a justified priority are absent (page 4). [AUDIT: 8/10 → 5.5/10; directly checked image.] |
+| 5.2 | 0 / 10 | A 5.2 heading is present with no written answer below it (page 4). [AUDIT: 6/10 → 0/10; directly checked image.] |
+| **Question totals** | **53.5 / 100** | Q1 15/20; Q2 9/20; Q3 11/20; Q4 13/20; Q5 5.5/20. |
+
+**Summary:** 53.5/100 (53.5%) — **PASS** at the 50% threshold.
 
 ## Student29
 
 | Question | Awarded / Total | Brief reason |
 |---|---:|---|
 | 1.1 | 8 / 10 | Relevant commercial option and feasibility reasoning; some case-specific risk/readiness detail is incomplete. |
-| 1.2 | 7 / 10 | Useful requirements and fact-finding ideas; fulfilment checks/measurement are partial. |
+| 1.2 | 5 / 10 | Functional and response-time requirements plus interviews are present, but five verification checks and full nonfunctional coverage are absent (pages 1 and 5). [AUDIT: 7/10 → 5/10; directly checked image.] |
 | 2.1 | 7 / 10 | Central system and several flows are shown; some required entities/boundary elements are unclear. |
-| 2.2 | 6 / 10 | Partial decision table/controls; rule outcomes and explanations need refinement. |
-| 3.1 | 7 / 10 | Relevant test and conversion points; expected results and migration controls are not fully detailed. |
-| 3.2 | 5 / 10 | Some changeover ideas; measurable criteria, rollback and handover are incomplete. |
+| 2.2 | 3 / 10 | Decision tree gives partial order outcomes; three requested interface controls are absent (page 5). [AUDIT: 6/10 → 3/10; directly checked image.] |
+| 3.1 | 4 / 10 | Duplicate-invoice result and limited data-cleaning/mapping points are present; UAT and three complete conversion steps are absent (page 3). [AUDIT: 7/10 → 4/10; directly checked image.] |
+| 3.2 | 0 / 10 | The 3.2 heading has no answer beneath it (page 3). [AUDIT: 5/10 → 0/10; directly checked image.] |
 | 4.1 | 7 / 10 | Most categories are identified; explanation/release control is partial. |
-| 4.2 | 6 / 10 | Some support/review content; stages and evidence are not fully developed. |
-| 5.1 | 8 / 10 | Relevant risks and controls; priority/CIA rationale needs more detail. |
-| 5.2 | 6 / 10 | Some immediate/recovery actions; continuity/reconciliation is incomplete. |
-| **Question totals** | **67 / 100** | Q1 15/20; Q2 13/20; Q3 12/20; Q4 13/20; Q5 14/20. |
+| 4.2 | 4 / 10 | Support stages are sketched, but two target-and-evidence review measures are absent (page 4). [AUDIT: 6/10 → 4/10; directly checked image.] |
+| 5.1 | 3 / 10 | Three broad risks are named, but matching controls and a supported priority are not supplied (page 4). [AUDIT: 8/10 → 3/10; directly checked image.] |
+| 5.2 | 0 / 10 | No 5.2 answer is present in the available photos. [AUDIT: 6/10 → 0/10; directly checked image.] |
+| **Question totals** | **41 / 100** | Q1 13/20; Q2 10/20; Q3 4/20; Q4 11/20; Q5 3/20. |
+
+**Summary:** 41/100 (41%) — **FAIL** at the 50% threshold.
 
 ## Student30
 
@@ -482,6 +540,8 @@
 | 5.2 | 3.5 / 10 | Includes partial credential/monitoring and backup suggestions; containment, continuity order handling, and post-restore reconciliation are incomplete. |
 | **Question totals** | **38 / 100** | Q1 8.5/20; Q2 6/20; Q3 7.5/20; Q4 8/20; Q5 8/20. |
 
+**Summary:** 38/100 (38%) — **FAIL** at the 50% threshold.
+
 ## Student-number duplicate check
 
-Student30 now has a submission archive containing five image scans, which has been graded provisionally above. Its cover-sheet student number appears to read **220430210**. The handwritten entries on the available cover sheets for Student1–Student29 were compared against it and against one another; no exact duplicate student number was confirmed. Some handwritten digits are faint or ambiguous, so this is a visual check rather than an authoritative registrar-record match.
+Student30 now has a submission archive containing five image scans, which has been graded in the visual audit above. Its cover-sheet student number appears to read **220430210**. The handwritten entries on the available cover sheets for Student1–Student29 were compared against it and against one another; no exact duplicate student number was confirmed. Some handwritten digits are faint or ambiguous, so this is a visual check rather than an authoritative registrar-record match.
